@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+.footer{
+  background-color: #262626;
+  color: #fff;
+  padding: 0.2rem 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  
+    margin-top: auto; 
+  }
+.footer-title{
+  font-size: 3rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+
+  
+}
+.footer-social{
+  font-size: 1.2rem;
+  margin-bottom: 0rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.half{
+  font-size: 3rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 1rem;
+  text-transform: uppercase; 
+  color: #ff9933;
+}
+
+
+.footer-copyright{
+  font-style: normal;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  line-height: 1;
+}
+
+.footer-icon{
+  font-size: 1.5rem;
+  color: #fff;
+  margin: 0 3rem;
+ 
+}
+
+.footer-icon:hover{
+  color: cyan;
+}
+
